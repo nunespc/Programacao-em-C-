@@ -1,0 +1,15 @@
+C:\Users\Wanderson\source\repos\SistemaNunesPc\SistemaNunesPc\bin\Release\SistemaNunesPc.exe.config
+C:\Users\Wanderson\source\repos\SistemaNunesPc\SistemaNunesPc\bin\Release\SistemaNunesPc.exe
+C:\Users\Wanderson\source\repos\SistemaNunesPc\SistemaNunesPc\bin\Release\SistemaNunesPc.pdb
+C:\Users\Wanderson\source\repos\SistemaNunesPc\SistemaNunesPc\bin\Release\MySql.Data.dll
+C:\Users\Wanderson\source\repos\SistemaNunesPc\SistemaNunesPc\obj\Release\SistemaNunesPc.CadastroFornecedor.resources
+C:\Users\Wanderson\source\repos\SistemaNunesPc\SistemaNunesPc\obj\Release\SistemaNunesPc.CadastroProduto.resources
+C:\Users\Wanderson\source\repos\SistemaNunesPc\SistemaNunesPc\obj\Release\SistemaNunesPc.CadastroUsuario.resources
+C:\Users\Wanderson\source\repos\SistemaNunesPc\SistemaNunesPc\obj\Release\SistemaNunesPc.frInicio.resources
+C:\Users\Wanderson\source\repos\SistemaNunesPc\SistemaNunesPc\obj\Release\SistemaNunesPc.Login.resources
+C:\Users\Wanderson\source\repos\SistemaNunesPc\SistemaNunesPc\obj\Release\SistemaNunesPc.Properties.Resources.resources
+C:\Users\Wanderson\source\repos\SistemaNunesPc\SistemaNunesPc\obj\Release\SistemaNunesPc.csproj.GenerateResource.cache
+C:\Users\Wanderson\source\repos\SistemaNunesPc\SistemaNunesPc\obj\Release\SistemaNunesPc.csproj.CoreCompileInputs.cache
+C:\Users\Wanderson\source\repos\SistemaNunesPc\SistemaNunesPc\obj\Release\SistemaNunesPc.csproj.CopyComplete
+C:\Users\Wanderson\source\repos\SistemaNunesPc\SistemaNunesPc\obj\Release\SistemaNunesPc.exe
+C:\Users\Wanderson\source\repos\SistemaNunesPc\SistemaNunesPc\obj\Release\SistemaNunesPc.pdb
